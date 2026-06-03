@@ -13,5 +13,5 @@ Uplifting the livelihood of regular people.
 >Observer
 
 ### Logo
-(https://github.com/user-attachments/assets/d036d4c8-99cf-4f00-a70a-820079eb1ae3)
+https://canva.link/2g2azavc2u7ztcr
  
