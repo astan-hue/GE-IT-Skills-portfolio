@@ -3,7 +3,7 @@
 Uplifting the livelihood of regular people.
 
 ## About Me
-Hello I am a 3rd Entrepreneurship student in ateneo, I love watching youtube videos during my spare time to learn something new everyday when I have more time
+Hello I am a 3rd year Entrepreneurship student in ateneo, I love watching youtube videos during my spare time to learn something new everyday when I have more time
 gaming and calisthenics is my passion. I hope to one day be a successful Entrepreneur.
 
 ## Skills
