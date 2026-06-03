@@ -1,6 +1,6 @@
 # Tagline
 
-To be a successful entrepreneur and make an impact in society, by uplifting the livelihood of regular people.
+Uplifting the livelihood of regular people.
 
 ## About Me
 
