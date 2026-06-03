@@ -15,7 +15,7 @@ gaming and calisthenics is my passion. I hope to one day be a successful Entrepr
 >
 >Observer
 
-##Goals
+## Goals
 >To be a succesful Entrepreneur.
 >
 >Provide jobs for the needy.
