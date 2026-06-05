@@ -1,7 +1,3 @@
-
-https://github.com/user-attachments/assets/4815d888-4518-490d-842c-94f37acb3d9a
-
-https://github.com/user-attachments/assets/f7d2d89f-0acf-4f72-ac82-6dbec1ee0b71
 # Tagline
 
 Uplifting the livelihood of regular people.
@@ -50,7 +46,9 @@ Now this is completely different compared to my portfolio, the reason for this i
 
 
 
-> Uploading Aboutme_MP4.mp4…
+https://github.com/user-attachments/assets/5eb7a8d3-6146-475c-b609-526f8984c185
+
+
 
 
 
