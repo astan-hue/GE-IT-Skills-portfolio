@@ -97,19 +97,24 @@ The tool also demonstrated a tendency to generalize findings from localized case
 #### Dataset Focus: Davao Region Agricultural Production Index (Mock CSV Analysis)
 
 #### 1. Data Cleaning Protocol Log
-- **Raw Input Problem:** The CSV file contained multiple missing row cells for the year 2023 along with mixed numerical formatting styles (e.g., metric tons vs. kilograms).
-- **AI Cleaning Instruction:** `"Scan this dataset. Identify all null rows in the 'Yield' column and replace them with the median value for that specific crop tier. Convert all mass metrics to standard Metric Tons (MT). Output the first 5 rows of the cleaned table."`
-- **Result:** Successfully normalized 120 row inputs across three provincial clusters.
+- **Missing Values:** Multiple null entries detected in the Yield column.
+- **Mixed Units:** Production values recorded in both kilograms and metric tons.
+- **Formatting Inconsistencies:** Numeric fields contained varying decimal and separator formats
+- **Structural Variations:** Provincial records displayed inconsistent formatting conventions
 
 #### 2. Visualizations Generated
-*(Embedded High-Contrast Bar Chart showing Cacao Production vs. Climate Outlier Years from 2020-2025)* 
+*Chart 1: Cacao Production vs. Climate Outlier Years (2020–2025)* 
 
 [Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
-"The data chart clearly shows an abrupt 18% decline in smallholder cacao output centered in late 2023. While the automated AI analysis summary attributed this drop purely to standard market volatility, human cross-referencing of local news archives reveals this period matched a severe regional El Niño weather event. 
+"The visual analysis reveals an abrupt decline of approximately 18 percent in smallholder cacao production during late 2023. While automated pattern recognition initially categorized the decrease as a normal market fluctuation, contextual examination provides a more nuanced explanation.
 
-This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in smart solar-powered irrigation infrastructure
+Regional weather reports and local agricultural monitoring records indicate that this period coincided with one of the most severe El Niño episodes experienced in recent years. Reduced rainfall, prolonged dry periods, and elevated temperatures significantly affected cacao-producing municipalities throughout the Davao Region.
+
+The divergence observed among provincial recovery rates further suggests that infrastructure availability plays a major role in agricultural resilience. Areas with established irrigation systems and climate-adaptive farming programs demonstrated stronger post-disruption recovery than municipalities relying exclusively on rain-fed production.
+
+These findings suggest that agricultural performance is increasingly influenced by climate risk exposure rather than purely market-driven forces. Consequently, future development strategies should prioritize investments that reduce vulnerability to recurring weather shocks.
 
 
 
