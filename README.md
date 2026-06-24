@@ -69,6 +69,18 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 - **Visual Prompt:** "A flat minimalist vector logo showing a rice stalk intertwined with a delivery truck.
 
 
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Davao Region Agricultural Production Index (Mock CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The CSV file contained multiple missing row cells for the year 2023 along with mixed numerical formatting styles (e.g., metric tons vs. kilograms).
+- **AI Cleaning Instruction:** `"Scan this dataset. Identify all null rows in the 'Yield' column and replace them with the median value for that specific crop tier. Convert all mass metrics to standard Metric Tons (MT). Output the first 5 rows of the cleaned table."`
+- **Result:** Successfully normalized 120 row inputs across three provincial clusters.
+
+#### 2. Visualizations Generated
+*(Embedded High-Contrast Bar Chart showing Cacao Production vs. Climate Outlier Years from 2020-2025)*
+
 
 
 
